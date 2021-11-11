@@ -45,6 +45,14 @@ form {
         margin-right: 8%;
     }
  }
+ @media screen and (max-width: 540px) {
+    #sendBtn {
+        margin-left: 15%;
+    }
+    #resetBtn {
+        margin-left: -30%;
+    }
+ }
  @media screen and (max-width: 360px) {
     #sendBtn {
         margin-left: 13%;
